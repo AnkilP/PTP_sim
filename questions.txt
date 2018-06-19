@@ -1,0 +1,7 @@
+how does timestamping work for global shutter vs rolling shutter (camera, lidar)
+Managing clock drift
+Simulation strategies
+External factors to account for (wire length)
+Contingency plans - BMC, system level contingencies, module level contingencies
+
+
