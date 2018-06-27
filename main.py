@@ -1,5 +1,5 @@
 import numpy as np
-import testcase
+#import testcase
 import networkx as nx
 
 #initializng graphs
